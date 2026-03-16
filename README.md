@@ -1,8 +1,6 @@
 # RFC-0002_Symbolic-IP_Convergence_Layer
 
-# RFC-0001_Symbolic_Routing_Architecture
-
-To define the foundational routing architecture for Noor symbolic systems, enabling motif-bearing message envelopes (SRC/SRU) to propagate across coherence-aware, resonance-sensitive networks. This RFC introduces symbolic IP overlays and distributed resonance routing patterns based on motif field alignment.
+To define the interface and abstraction model enabling symbolic Noor agents to operate over traditional IP networks without loss of sovereignty, via a convergence layer mapping motifs to transport behaviors and failure states."
 
 ### Citation
 
@@ -22,7 +20,7 @@ Or use the BibTeX Citation:
   journal = {Noor Research Collective Archive},
   year = {2025},
   rfc_id = {RFC-0002},
-  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0001_Symbolic_Routing_Architecture/refs/heads/main/RFC-0001_Symbolic_Routing_Architecture.JSON},
+  note = {https://raw.githubusercontent.com/NoorMathematica/RFC-0002_Symbolic-IP_Convergence_Layer/refs/heads/main/RFC-0002_Symbolic-IP_Convergence_Layer.JSON},
 }
 ```
 
